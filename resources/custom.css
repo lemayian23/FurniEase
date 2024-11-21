@@ -1,0 +1,219 @@
+/* Global Styles */
+body {
+    font-family: 'Inter', sans-serif;
+    color: #212121;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa; /* Light background for modern feel */
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #6a11cb; /* Gradient for depth */
+    color: #fff;
+    border-bottom: 3px solid #f4f4f4;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.hero p {
+    font-size: 1.3rem;
+    font-weight: 400;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+/* Navbar Styles */
+/* Navbar Styles */
+.navbar {
+    background-color: #333; /* Dark background for the navbar */
+    padding: 15px 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for separation */
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Keeps navbar fixed on top */
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo a {
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.navbar-links {
+    display: flex;
+    gap: 30px;
+}
+
+.navbar-links li {
+    list-style-type: none;
+}
+
+.navbar-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+/* Hover Effect for Navbar Links */
+.navbar-links a:hover {
+    background-color: #007bff; /* Highlight color */
+    color: #fff;
+    transform: scale(1.05); /* Slightly enlarge the link */
+    text-decoration: underline; /* Add underline for more emphasis */
+}
+
+/* Active Link (Clicked State) */
+.navbar-links a:active {
+    background-color: #0056b3; /* Stronger color on click */
+    color: #fff;
+    transform: scale(1); /* Ensure no further scaling */
+}
+
+/* Add a visual indicator for the active link based on the route */
+.navbar-links a.active {
+    background-color: #0056b3; /* Active link background */
+    color: #fff; /* Ensure the text stays white */
+    text-decoration: underline; /* Underline the active link */
+    font-weight: 600; /* Slightly bolder text for active link */
+}
+
+/* Make sure the link styles are consistent when selected (e.g., via route matching) */
+.navbar-links a.active:hover {
+    background-color: #0056b3; /* Keep the same color when hovered */
+    color: #fff;
+}
+
+/* Add Focus Style for Accessibility */
+.navbar-links a:focus {
+    outline: 3px solid #ff6f61; /* A distinct outline for keyboard navigation */
+}
+
+
+/* Featured Sections */
+.featured-sections {
+    padding: 50px 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.about-section {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.about-section:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Subtle hover effect */
+}
+
+.about-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: #6a11cb;
+}
+
+.about-section p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+/* About Us Image Gallery */
+.about-us .image-gallery {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 40px 20px;
+}
+
+.about-us .image-gallery img {
+    width: 30%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.about-us .image-gallery img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Hover effect on images */
+}
+
+/* Footer Section */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1rem;
+}
+
+footer .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+footer a {
+    color: #ff6f61;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-links {
+        flex-direction: column;
+        gap: 15px;
+        margin-top: 10px;
+    }
+
+    .featured-sections {
+        grid-template-columns: 1fr; /* Stacks the featured sections on small screens */
+    }
+
+    .about-us .image-gallery img {
+        width: 100%; /* Makes images full-width on smaller devices */
+    }
+}

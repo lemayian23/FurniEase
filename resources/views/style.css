@@ -1,0 +1,599 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #ffffff;
+  height: 1759px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #cfaf09;
+  width: 1181px;
+  height: 258px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about-osiany {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 946px;
+  top: 128px;
+  width: 130px;
+}
+.our-products {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 749px;
+  top: 128px;
+}
+.showroom {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 551px;
+  top: 130px;
+  width: 80px;
+  height: 19px;
+}
+.home {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 362px;
+  top: 130px;
+}
+.rectangle-2 {
+  background: #bb9f0a;
+  width: 1181px;
+  height: 226px;
+  position: absolute;
+  left: 0px;
+  top: 1533px;
+}
+.copyright-2024-osiany-furnitures-lemayian-and-jodwar-engineers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PoetsenOne-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 290px;
+  top: 1700px;
+  width: 552px;
+  height: 32px;
+}
+.text {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 352px;
+  top: 117px;
+  width: 0px;
+  height: 61px;
+}
+.rectangle-3 {
+  background: #ffffff;
+  width: 324px;
+  height: 364px;
+  position: absolute;
+  left: 72px;
+  top: 503px;
+}
+.rectangle-32 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.lincon-briston-chairs-with-pachwork-for-living-room-ksh-10-000 {
+  text-align: left;
+  font-family: "PoetsenOne-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  right: -3.12%;
+  left: 3.12%;
+  width: 100%;
+  bottom: -35.06%;
+  top: 100%;
+  height: 35.06%;
+}
+.lincon-briston-chairs-with-pachwork-for-living-room-ksh-10-000-span {
+  color: #000000;
+  font-family: "PoetsenOne-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.lincon-briston-chairs-with-pachwork-for-living-room-ksh-10-000-span2 {
+  color: rgba(31, 239, 77, 0.92);
+  font-family: "PoetsenOne-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.rectangle-4 {
+  background: #cfaf09;
+  width: 223px;
+  height: 1275px;
+  position: absolute;
+  left: 958px;
+  top: 258px;
+}
+.rectangle-5 {
+  width: 541px;
+  height: 362px;
+  position: absolute;
+  left: 417px;
+  top: 503px;
+  object-fit: cover;
+}
+.living-room-furniture-ksh-60-000 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 481px;
+  top: 891px;
+  width: 287px;
+  height: 27px;
+}
+.living-room-furniture-ksh-60-000-span {
+  color: rgba(0, 0, 0, 0.97);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.living-room-furniture-ksh-60-000-span2 {
+  color: #1fef4d;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.rectangle-6 {
+  width: 295px;
+  height: 504px;
+  position: absolute;
+  left: 72px;
+  top: 966px;
+  object-fit: cover;
+}
+.cormfort-armchair-ksh-15-000 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1470px;
+  width: 258px;
+  height: 28px;
+}
+.cormfort-armchair-ksh-15-000-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.cormfort-armchair-ksh-15-000-span2 {
+  color: #10d760;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.rectangle-7 {
+  width: 523px;
+  height: 459px;
+  position: absolute;
+  left: 417px;
+  top: 995px;
+  object-fit: cover;
+}
+.cormfort-bed-asset-6-6-ksh-70-000 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 489px;
+  top: 1484px;
+  width: 309px;
+  height: 33px;
+}
+.cormfort-bed-asset-6-6-ksh-70-000-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.cormfort-bed-asset-6-6-ksh-70-000-span2 {
+  color: #1fef4d;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.contact-us-phone-0703587317-07998010996-email-lemayianledavit-2018-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PoetsenOne-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 1533px;
+  width: 327px;
+  height: 88px;
+}
+.login-register {
+  color: #1d97ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1007px;
+  top: 415px;
+  width: 184px;
+  height: 40px;
+}
+.make-payments {
+  color: #1a5fe5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1007px;
+  top: 751px;
+  width: 184px;
+  height: 35px;
+}
+._60-eccabb-f-624-4371-aa-8-c-9-b-60-ae-3-a-2-b-57-1 {
+  width: 240px;
+  height: 249px;
+  position: absolute;
+  left: 4px;
+  top: 9px;
+  object-fit: cover;
+}
+.welcome-to-osiany-furniture-shop-in-machakos-kenya {
+  color: #1c6adf;
+  text-align: left;
+  font-family: "PoetsenOne-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 370px;
+  top: 24px;
+  width: 361px;
+  height: 49px;
+}
+.custom-orders {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1007px;
+  top: 1082px;
+  width: 106px;
+  height: 20px;
+}
+.about-osiany2 {
+  color: #5261eb;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 2581px;
+  top: 98px;
+  width: 220px;
+  height: 27px;
+}
+.home2 {
+  color: #1f59ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 5189px;
+  top: 777px;
+  width: 39px;
+  height: 13px;
+}
+.our-products2 {
+  color: #1c56eb;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 5356px;
+  top: 779px;
+  width: 100px;
+  height: 12px;
+}
+.about-osiany3 {
+  color: #1c6adf;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 5482px;
+  top: 779px;
+  width: 110px;
+  height: 11px;
+}
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #ffffff;
+  height: 810px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  width: 160px;
+  height: 91px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.home {
+  color: #1f59ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 182px;
+  top: 33px;
+  width: 41px;
+  height: 12px;
+}
+.showroom {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 248px;
+  top: 35px;
+  width: 80px;
+  height: 19px;
+}
+.our-products {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 353px;
+  top: 35px;
+}
+.our-products2 {
+  color: #0a58ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 482px;
+  top: 37px;
+}
+.rectangle-2 {
+  width: 572px;
+  height: 381px;
+  position: absolute;
+  left: 2px;
+  top: 141px;
+  overflow: visible;
+  object-fit: cover;
+}
+.complete-setup-for-a-furnished-dinning-bedroom-and-reading-table-shel-ksh-250-000 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 2px;
+  top: 96px;
+  width: 234px;
+}
+.complete-setup-for-a-furnished-dinning-bedroom-and-reading-table-shel-ksh-250-000-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.complete-setup-for-a-furnished-dinning-bedroom-and-reading-table-shel-ksh-250-000-span2 {
+  color: #0a58ef;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.design-2-for-furnished-apartment-240-000 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 2px;
+  top: 527px;
+  width: 147px;
+}
+.design-2-for-furnished-apartment-240-000-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.design-2-for-furnished-apartment-240-000-span2 {
+  color: #0a58ef;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.rectangle-3 {
+  width: 586px;
+  height: 244px;
+  position: absolute;
+  left: 0px;
+  top: 559px;
+  object-fit: cover;
+}
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #ffffff;
+  height: 798px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  width: 174px;
+  height: 141px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.home {
+  color: #1f59ef;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 213px;
+  top: 40px;
+  width: 41px;
+  height: 12px;
+}
+.showroom {
+  color: #284fb5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 266px;
+  top: 40px;
+  width: 90px;
+  height: 12px;
+}
+.our-products {
+  color: #1c56eb;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 368px;
+  top: 40px;
+  width: 115px;
+  height: 12px;
+}
+.about-osiany {
+  color: #5261eb;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 495px;
+  top: 40px;
+  width: 107px;
+  height: 12px;
+}
+.rectangle-2 {
+  width: 544px;
+  height: 184px;
+  position: absolute;
+  left: 123px;
+  top: 160px;
+  object-fit: cover;
+}
+.sofa-designs {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 160px;
+}
+.bedroom-designs {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 371px;
+}
+.rectangle-3 {
+  width: 544px;
+  height: 184px;
+  position: absolute;
+  left: 123px;
+  top: 391px;
+  overflow: visible;
+  object-fit: cover;
+}
+.tables-and-stands {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 595px;
+}
+.rectangle-4 {
+  width: 544px;
+  height: 184px;
+  position: absolute;
+  left: 125px;
+  top: 604px;
+  overflow: visible;
+  object-fit: cover;
+}
+
